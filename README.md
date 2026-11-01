@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/subhi-2007/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/subhi-2007/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/subhi-2007/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/subhi-2007/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -41,4 +42,8 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/subhi-2007/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/subhi-2007/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Math
+|  |
+| ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/subhi-2007/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 <!---LeetCode Topics End-->
