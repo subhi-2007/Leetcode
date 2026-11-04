@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/subhi-2007/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0290-word-pattern](https://github.com/subhi-2007/Leetcode/tree/master/0290-word-pattern) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/subhi-2007/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Array
@@ -46,4 +47,16 @@
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/subhi-2007/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/subhi-2007/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/subhi-2007/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/subhi-2007/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
