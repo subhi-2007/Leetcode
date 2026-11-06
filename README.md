@@ -49,6 +49,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/subhi-2007/Leetcode/tree/master/0009-palindrome-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/subhi-2007/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Two Pointers
 |  |
