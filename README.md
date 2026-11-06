@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/subhi-2007/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/subhi-2007/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0290-word-pattern](https://github.com/subhi-2007/Leetcode/tree/master/0290-word-pattern) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/subhi-2007/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Array
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/subhi-2007/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/subhi-2007/Leetcode/tree/master/0010-regular-expression-matching) |
 ## Manacher
 |  |
 | ------- |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/subhi-2007/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/subhi-2007/Leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
